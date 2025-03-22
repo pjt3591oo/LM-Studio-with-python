@@ -1,0 +1,12 @@
+[project]
+name = "lmstudio-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain>=0.3.21",
+    "langchain-community>=0.3.20",
+    "openai>=1.68.2",
+    "tiktoken>=0.9.0",
+]
