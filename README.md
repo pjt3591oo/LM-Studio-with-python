@@ -1,5 +1,7 @@
 # LM Studio with python
 
+LM Studio is compatible with OpenAI API
+
 ### install dependencies
 
 ```bash
